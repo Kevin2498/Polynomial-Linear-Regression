@@ -30,8 +30,8 @@ Polynomial Regression Model with a degree of 4
 ![Polynomial Linear Regression degree=4](https://github.com/Kevin2498/Polynomial-Linear-Regression/blob/master/poly_reg_plot(degree%3D4).png)
 
 
-Seems like that Employee was telling the truth accounding to our model we predicted the annual salary of the person who is in 6.5 pay scale as = 158862.45. 
+Seems like that Employee was telling the truth, accounding to our model we predicted the annual salary of the person who is in 6.5 pay scale as = 158862.45. 
 
-Polynomial Regression Model with the Level rearranged in the increment of 0.1 (FINAL PREDICTION)
+Polynomial Regression Model with the Levels rearranged in the increment of 0.1 (FINAL PREDICTION)
 
 ![Polynomial Linear Regression](https://github.com/Kevin2498/Polynomial-Linear-Regression/blob/master/actual_poly_reg_plot.png)
