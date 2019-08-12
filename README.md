@@ -6,3 +6,5 @@ HR Manager gets the data from previous company but in the form of levels and the
 HR Manager uses Polynomial Linear Regression model to find out whether the employee is bluffing or telling the truth. If he's bluffing he won't be hired and if he's telling the truth he'll be hired and given some extra incentives for his truthfullness.
 
 Try out this project to know whether he is hired or not !!!
+
+![Polynomial Linear Regression](https://github.com/Kevin2498/Polynomial-Linear-Regression/blob/master/actual_poly_reg_plot.png)
