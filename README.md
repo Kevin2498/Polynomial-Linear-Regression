@@ -8,20 +8,29 @@ HR Manager uses Polynomial Linear Regression model to find out whether the emplo
 Try out this project to know whether he is hired or not !!!
 
 This what will happen if we try to fit this problem onto Linear Regression Model
+
 ![Linear Regression](https://github.com/Kevin2498/Polynomial-Linear-Regression/blob/master/linear_reg_plot.png)
 
+
 Polynomial Regression Model with a degree of 2
+
 ![Polynomial Linear Regression degree=2](https://github.com/Kevin2498/Polynomial-Linear-Regression/blob/master/poly_reg_plot(degree%3D2).png)
+
 
 From here you can see our prediction getting optimised
 
 Polynomial Regression Model with a degree of 3
+
 ![Polynomial Linear Regression degree=3](https://github.com/Kevin2498/Polynomial-Linear-Regression/blob/master/poly_reg_plot(degree%3D3).png)
 
+
 Polynomial Regression Model with a degree of 4
+
 ![Polynomial Linear Regression degree=4](https://github.com/Kevin2498/Polynomial-Linear-Regression/blob/master/poly_reg_plot(degree%3D4).png)
+
 
 Seems like that Employee was telling the truth accounding to our model we predicted the annual salary of the person who is in 6.5 pay scale as = 158862.45. 
 
 Polynomial Regression Model with the Level rearranged in the increment of 0.1 (FINAL PREDICTION)
+
 ![Polynomial Linear Regression](https://github.com/Kevin2498/Polynomial-Linear-Regression/blob/master/actual_poly_reg_plot.png)
