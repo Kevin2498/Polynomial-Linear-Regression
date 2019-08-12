@@ -17,7 +17,7 @@ Polynomial Regression Model with a degree of 2
 ![Polynomial Linear Regression degree=2](https://github.com/Kevin2498/Polynomial-Linear-Regression/blob/master/poly_reg_plot(degree%3D2).png)
 
 
-# From here you can see our prediction getting optimised
+## From here you'll see our prediction getting optimised
 
 
 Polynomial Regression Model with a degree of 3
